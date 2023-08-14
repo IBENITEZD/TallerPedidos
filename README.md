@@ -1,2 +1,3 @@
 # TallerPedidos
-Taller de pedidos Uninorte
+Taller de pedidos Uninorte 
+Realizado en PHPRunner
